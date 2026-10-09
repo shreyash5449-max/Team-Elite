@@ -1,0 +1,1064 @@
+{
+  "updated_at": "2026-10-08T23:35:19.358Z",
+  "reports": [
+    {
+      "report_id": "R-101",
+      "category": "Water & Sanitation",
+      "description": "Water is leaking heavily onto the road near Shivaji Nagar junction.",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "timestamp": "2026-10-08T09:05:00",
+      "image": "water_leak_junction.jpg",
+      "metadata": {
+        "source": "Mobile App",
+        "channel": "Citizen Mobile"
+      },
+      "status": "Linked",
+      "created_at": "2026-10-08T09:05:00",
+      "evidence": "/evidence/water_leak_junction.jpg"
+    },
+    {
+      "report_id": "R-107",
+      "category": "Water & Sanitation",
+      "description": "The road near the junction is flooded with gushing water from a broken main.",
+      "latitude": 18.5206,
+      "longitude": 73.8569,
+      "timestamp": "2026-10-08T09:12:00",
+      "image": null,
+      "metadata": {
+        "source": "Web Portal",
+        "channel": "Public Portal"
+      },
+      "status": "Linked",
+      "created_at": "2026-10-08T09:12:00",
+      "evidence": null
+    },
+    {
+      "report_id": "R-112",
+      "category": "Water & Sanitation",
+      "description": "There is a large water leak near the bus stop causing traffic slowdown and puddle accumulation.",
+      "latitude": 18.5203,
+      "longitude": 73.8565,
+      "timestamp": "2026-10-08T09:18:00",
+      "image": null,
+      "metadata": {
+        "source": "Mobile App",
+        "channel": "Citizen Mobile"
+      },
+      "status": "Linked",
+      "created_at": "2026-10-08T09:18:00",
+      "evidence": null
+    },
+    {
+      "report_id": "R-119",
+      "category": "Water & Sanitation",
+      "description": "Underground water pipeline appears cracked; water spilling across two traffic lanes.",
+      "latitude": 18.5208,
+      "longitude": 73.8571,
+      "timestamp": "2026-10-08T09:22:00",
+      "image": null,
+      "metadata": {
+        "source": "Hotline",
+        "channel": "IVR Voice Log"
+      },
+      "status": "Linked",
+      "created_at": "2026-10-08T09:22:00",
+      "evidence": null
+    },
+    {
+      "report_id": "R-121",
+      "category": "Water & Sanitation",
+      "description": "Flooding spreading across the pedestrian crossing near Shivaji Nagar bus stop.",
+      "latitude": 18.5205,
+      "longitude": 73.8568,
+      "timestamp": "2026-10-08T09:25:00",
+      "image": "flooded_street_crossing.jpg",
+      "metadata": {
+        "source": "Mobile App",
+        "channel": "Citizen Mobile"
+      },
+      "status": "Linked",
+      "created_at": "2026-10-08T09:25:00",
+      "evidence": "/evidence/flooded_street_crossing.jpg"
+    },
+    {
+      "report_id": "R-124",
+      "category": "Water & Sanitation",
+      "description": "Two wheelers slipping on waterlogged street; deep pooling water at the intersection.",
+      "latitude": 18.5207,
+      "longitude": 73.8566,
+      "timestamp": "2026-10-08T09:26:00",
+      "image": null,
+      "metadata": {
+        "source": "Web Portal",
+        "channel": "Public Portal"
+      },
+      "status": "Linked",
+      "created_at": "2026-10-08T09:26:00",
+      "evidence": null
+    },
+    {
+      "report_id": "R-128",
+      "category": "Water & Sanitation",
+      "description": "Severe water overflow from underground line entering bus shelter area.",
+      "latitude": 18.5202,
+      "longitude": 73.8569,
+      "timestamp": "2026-10-08T09:27:00",
+      "image": null,
+      "metadata": {
+        "source": "Mobile App",
+        "channel": "Citizen Mobile"
+      },
+      "status": "Linked",
+      "created_at": "2026-10-08T09:27:00",
+      "evidence": null
+    },
+    {
+      "report_id": "R-130",
+      "category": "Water & Sanitation",
+      "description": "Water pressure gushing from damaged valve near pavement curb.",
+      "latitude": 18.5209,
+      "longitude": 73.8572,
+      "timestamp": "2026-10-08T09:28:00",
+      "image": null,
+      "metadata": {
+        "source": "Mobile App",
+        "channel": "Citizen Mobile"
+      },
+      "status": "Linked",
+      "created_at": "2026-10-08T09:28:00",
+      "evidence": null
+    },
+    {
+      "report_id": "R-102",
+      "category": "Road & Infrastructure",
+      "description": "Deep hazardous pothole cluster on FC Road causing sudden vehicle swerves.",
+      "latitude": 18.5245,
+      "longitude": 73.842,
+      "timestamp": "2026-10-08T08:30:00",
+      "image": "deep_pothole.jpg",
+      "metadata": {
+        "source": "Mobile App"
+      },
+      "status": "Linked",
+      "created_at": "2026-10-08T08:30:00",
+      "evidence": "/evidence/deep_pothole.jpg"
+    },
+    {
+      "report_id": "R-108",
+      "category": "Road & Infrastructure",
+      "description": "Sunken road surface and caved asphalt creating dangerous trap for motorbikes.",
+      "latitude": 18.5248,
+      "longitude": 73.8423,
+      "timestamp": "2026-10-08T08:45:00",
+      "image": null,
+      "metadata": {
+        "source": "Web Portal"
+      },
+      "status": "Linked",
+      "created_at": "2026-10-08T08:45:00",
+      "evidence": null
+    },
+    {
+      "report_id": "R-115",
+      "category": "Road & Infrastructure",
+      "description": "Crater on FC road lane 2; broken pavement stones scattered on road.",
+      "latitude": 18.5243,
+      "longitude": 73.8418,
+      "timestamp": "2026-10-08T08:52:00",
+      "image": null,
+      "metadata": {
+        "source": "Mobile App"
+      },
+      "status": "Linked",
+      "created_at": "2026-10-08T08:52:00",
+      "evidence": null
+    },
+    {
+      "report_id": "R-103",
+      "category": "Electrical & Public Safety",
+      "description": "Damaged electrical junction box with exposed sparking wires at JM Road corner.",
+      "latitude": 18.5312,
+      "longitude": 73.8465,
+      "timestamp": "2026-10-08T08:55:00",
+      "image": "exposed_wires_box.jpg",
+      "metadata": {
+        "source": "Mobile App"
+      },
+      "status": "Linked",
+      "created_at": "2026-10-08T08:55:00",
+      "evidence": "/evidence/exposed_wires_box.jpg"
+    },
+    {
+      "report_id": "R-114",
+      "category": "Electrical & Public Safety",
+      "description": "Feeder pillar door is broken open with loose high-voltage cables visible to pedestrians.",
+      "latitude": 18.5315,
+      "longitude": 73.8468,
+      "timestamp": "2026-10-08T09:10:00",
+      "image": null,
+      "metadata": {
+        "source": "Hotline"
+      },
+      "status": "Linked",
+      "created_at": "2026-10-08T09:10:00",
+      "evidence": null
+    },
+    {
+      "report_id": "R-105",
+      "category": "Water & Sanitation",
+      "description": "Clogged storm drain overflowing black stagnant sewage water near Model Colony market.",
+      "latitude": 18.536,
+      "longitude": 73.834,
+      "timestamp": "2026-10-08T08:15:00",
+      "image": "clogged_drain.jpg",
+      "metadata": {
+        "source": "Web Portal"
+      },
+      "status": "Linked",
+      "created_at": "2026-10-08T08:15:00",
+      "evidence": "/evidence/clogged_drain.jpg"
+    },
+    {
+      "report_id": "R-117",
+      "category": "Water & Sanitation",
+      "description": "Drainage channel blocked by plastic silt; sewage spilling onto sidewalk.",
+      "latitude": 18.5363,
+      "longitude": 73.8342,
+      "timestamp": "2026-10-08T08:40:00",
+      "image": null,
+      "metadata": {
+        "source": "Mobile App"
+      },
+      "status": "Linked",
+      "created_at": "2026-10-08T08:40:00",
+      "evidence": null
+    },
+    {
+      "report_id": "R-122",
+      "category": "Water & Sanitation",
+      "description": "Manhole grating clogged with trash causing foul water backup.",
+      "latitude": 18.5358,
+      "longitude": 73.8338,
+      "timestamp": "2026-10-08T09:02:00",
+      "image": null,
+      "metadata": {
+        "source": "Mobile App"
+      },
+      "status": "Linked",
+      "created_at": "2026-10-08T09:02:00",
+      "evidence": null
+    },
+    {
+      "report_id": "R-106",
+      "category": "Road & Infrastructure",
+      "description": "Broken metal guard rail dangling into vehicular lane on Sancheti flyover ramp.",
+      "latitude": 18.5285,
+      "longitude": 73.8525,
+      "timestamp": "2026-10-08T07:50:00",
+      "image": "broken_guardrail.jpg",
+      "metadata": {
+        "source": "Mobile App"
+      },
+      "status": "Linked",
+      "created_at": "2026-10-08T07:50:00",
+      "evidence": "/evidence/broken_guardrail.jpg"
+    },
+    {
+      "report_id": "R-125",
+      "category": "Road & Infrastructure",
+      "description": "Damaged crash barrier protruding into fast traffic lane.",
+      "latitude": 18.5287,
+      "longitude": 73.8527,
+      "timestamp": "2026-10-08T08:20:00",
+      "image": null,
+      "metadata": {
+        "source": "Web Portal"
+      },
+      "status": "Linked",
+      "created_at": "2026-10-08T08:20:00",
+      "evidence": null
+    },
+    {
+      "report_id": "R-109",
+      "category": "Electrical & Public Safety",
+      "description": "Streetlight pole #42 blinking erratically; base cover missing.",
+      "latitude": 18.514,
+      "longitude": 73.859,
+      "timestamp": "2026-10-08T07:15:00",
+      "image": null,
+      "metadata": {
+        "source": "Mobile App"
+      },
+      "status": "Linked",
+      "created_at": "2026-10-08T07:15:00",
+      "evidence": null
+    },
+    {
+      "report_id": "R-126",
+      "category": "Electrical & Public Safety",
+      "description": "Streetlight mast dark and loose wiring bundle visible near ground.",
+      "latitude": 18.5143,
+      "longitude": 73.8592,
+      "timestamp": "2026-10-08T07:35:00",
+      "image": null,
+      "metadata": {
+        "source": "Web Portal"
+      },
+      "status": "Linked",
+      "created_at": "2026-10-08T07:35:00",
+      "evidence": null
+    },
+    {
+      "report_id": "R-140",
+      "category": "Electrical & Public Safety",
+      "description": "Live electrical wire has fallen into the flooded area near the junction; sparks visible.",
+      "latitude": 18.5205,
+      "longitude": 73.8568,
+      "timestamp": "2026-10-08T09:34:00",
+      "created_at": "2026-10-08T09:34:00",
+      "image": "downed_powerline_flood.jpg",
+      "evidence": "/evidence/downed_powerline_flood.jpg",
+      "status": "Linked",
+      "metadata": {
+        "source": "Urgent Citizen Hotkey",
+        "high_urgency": true,
+        "has_photo": true
+      }
+    }
+  ],
+  "incidents": [
+    {
+      "id": "CIV-104",
+      "title": "Major Water Leak & Live Electrical Hazard",
+      "categories": [
+        "Water & Sanitation",
+        "Electrical & Public Safety"
+      ],
+      "status": "In Progress",
+      "severity": 94,
+      "priority": "CRITICAL",
+      "latitude": 18.5205,
+      "longitude": 73.8568,
+      "linked_report_ids": [
+        "R-101",
+        "R-107",
+        "R-112",
+        "R-119",
+        "R-121",
+        "R-124",
+        "R-128",
+        "R-130",
+        "R-140"
+      ],
+      "created_at": "2026-10-08T09:05:00",
+      "updated_at": "2026-10-08T09:34:00",
+      "evidence_breakdown": {
+        "location_score": 98,
+        "time_score": 88,
+        "text_score": 79,
+        "evidence_score": 95,
+        "overall_confidence": 91,
+        "confidence_level": "Strong correlation"
+      },
+      "severity_breakdown": {
+        "factors": [
+          {
+            "name": "Multiple Linked Reports",
+            "category": "Volume & Citizen Corroboration",
+            "points": 18,
+            "description": "9 citizen reports independently corroborate this incident cluster."
+          },
+          {
+            "name": "Rapid Incident Growth",
+            "category": "Temporal Velocity",
+            "points": 12,
+            "description": "Report velocity indicates an actively escalating situation."
+          },
+          {
+            "name": "Geographic Impact Area",
+            "category": "Spatial Spread",
+            "points": 10,
+            "description": "Hazard extends over ~99m radius affecting thoroughfares."
+          },
+          {
+            "name": "Verified Visual Evidence",
+            "category": "Corroboration Confidence",
+            "points": 10,
+            "description": "3 citizen photo(s) verify on-the-ground infrastructure disruption."
+          },
+          {
+            "name": "Road & Transit Obstruction",
+            "category": "Public Mobility Risk",
+            "points": 15,
+            "description": "Vehicular movement and pedestrian thoroughfares are compromised."
+          },
+          {
+            "name": "Critical Electrical / Safety Risk",
+            "category": "Life Safety Threat",
+            "points": 25,
+            "description": "Potential high-voltage electrocution hazard or live exposed wire identified."
+          },
+          {
+            "name": "Cross-Domain Hazard Escalation",
+            "category": "Compound Threat",
+            "points": 11,
+            "description": "Multiple critical civic domains affected (Water & Sanitation + Electrical & Public Safety)."
+          }
+        ],
+        "total_score": 94
+      },
+      "status_trail": [
+        {
+          "id": "EV-1001",
+          "timestamp": "09:05:00",
+          "event_type": "REPORT_RECEIVED",
+          "description": "First citizen report received: Water leak near junction (R-101)",
+          "previous_value": null,
+          "new_value": "R-101"
+        },
+        {
+          "id": "EV-1002",
+          "timestamp": "09:12:00",
+          "event_type": "REPORT_CORRELATED",
+          "description": "Second report correlated: Road flooded with gushing water (R-107)",
+          "previous_value": null,
+          "new_value": "R-107"
+        },
+        {
+          "id": "EV-1003",
+          "timestamp": "09:18:00",
+          "event_type": "INCIDENT_CREATED",
+          "description": "Incident CIV-104 formally clustered with initial Severity 42 [MEDIUM]",
+          "previous_value": null,
+          "new_value": "CIV-104"
+        },
+        {
+          "id": "EV-1004",
+          "timestamp": "09:22:00",
+          "event_type": "SEVERITY_INCREASED",
+          "description": "Additional reports linked (R-112, R-119); Severity increased 42 -> 56",
+          "previous_value": "42",
+          "new_value": "56"
+        },
+        {
+          "id": "EV-1005",
+          "timestamp": "09:25:00",
+          "event_type": "EVIDENCE_ADDED",
+          "description": "Photographic evidence added (flooded_street_crossing.jpg)",
+          "previous_value": null,
+          "new_value": "R-121"
+        },
+        {
+          "id": "EV-1006",
+          "timestamp": "09:28:00",
+          "event_type": "PRIORITY_ESCALATED",
+          "description": "Severity increased 56 -> 68; Priority adjusted to HIGH",
+          "previous_value": "MEDIUM",
+          "new_value": "HIGH"
+        },
+        {
+          "id": "EV-1791502519357-1",
+          "timestamp": "09:34:00",
+          "event_type": "SEVERE_REPORT_LINKED",
+          "description": "Critical report received (R-140): \"Live electrical wire has fallen into flooded area\"",
+          "previous_value": null,
+          "new_value": "R-140"
+        },
+        {
+          "id": "EV-1791502519357-2",
+          "timestamp": "09:34:00",
+          "event_type": "SEVERITY_INCREASED",
+          "description": "Severity escalated 68 -> 94 [CRITICAL]",
+          "previous_value": "68",
+          "new_value": "94"
+        },
+        {
+          "id": "EV-1791502519357-3",
+          "timestamp": "09:35:00",
+          "event_type": "PRIORITY_ESCALATED",
+          "description": "Priority changed HIGH -> CRITICAL",
+          "previous_value": "HIGH",
+          "new_value": "CRITICAL"
+        },
+        {
+          "id": "EV-1791502519357-4",
+          "timestamp": "09:36:00",
+          "event_type": "RESOURCE_RECOMMENDATION_UPDATED",
+          "description": "Resource recommendation updated: Water Response Team + Electrical Response Team",
+          "previous_value": "Water Team",
+          "new_value": "Water Team + Electrical Team"
+        }
+      ],
+      "recommended_resources": [
+        {
+          "resource_id": "RSRC-03",
+          "name": "Water Response Team",
+          "type": "Water & Sanitation",
+          "matched_capability": "Water & Sanitation",
+          "distance_meters": 885,
+          "estimated_eta_minutes": 4,
+          "estimated_cost": 163,
+          "is_substitute": false
+        },
+        {
+          "resource_id": "RSRC-04",
+          "name": "Electrical Response Team",
+          "type": "Electrical & Public Safety",
+          "matched_capability": "Electrical & Public Safety",
+          "distance_meters": 839,
+          "estimated_eta_minutes": 4,
+          "estimated_cost": 193,
+          "is_substitute": false
+        },
+        {
+          "resource_id": "RSRC-05",
+          "name": "Emergency Response Vehicle",
+          "type": "Multi-Hazards / Quick Response",
+          "matched_capability": "Emergency Response Vehicle",
+          "distance_meters": 198,
+          "estimated_eta_minutes": 4,
+          "estimated_cost": 143,
+          "is_substitute": false
+        }
+      ],
+      "shortage_detected": false,
+      "resource_notes": []
+    },
+    {
+      "id": "CIV-112",
+      "title": "Damaged Electrical Junction Box with Exposed Cables",
+      "categories": [
+        "Electrical & Public Safety"
+      ],
+      "status": "Triaged",
+      "severity": 66,
+      "priority": "HIGH",
+      "latitude": 18.5313,
+      "longitude": 73.8466,
+      "linked_report_ids": [
+        "R-103",
+        "R-114"
+      ],
+      "created_at": "2026-10-08T08:55:00",
+      "updated_at": "2026-10-08T09:10:00",
+      "evidence_breakdown": {
+        "location_score": 94,
+        "time_score": 86,
+        "text_score": 88,
+        "evidence_score": 89,
+        "overall_confidence": 89,
+        "confidence_level": "Strong correlation"
+      },
+      "severity_breakdown": {
+        "factors": [
+          {
+            "name": "Multiple Linked Reports",
+            "category": "Volume & Citizen Corroboration",
+            "points": 6,
+            "description": "2 citizen reports independently corroborate this incident cluster."
+          },
+          {
+            "name": "Rapid Incident Growth",
+            "category": "Temporal Velocity",
+            "points": 4,
+            "description": "Report velocity indicates an actively escalating situation."
+          },
+          {
+            "name": "Geographic Impact Area",
+            "category": "Spatial Spread",
+            "points": 8,
+            "description": "Hazard extends over ~46m radius affecting thoroughfares."
+          },
+          {
+            "name": "Verified Visual Evidence",
+            "category": "Corroboration Confidence",
+            "points": 8,
+            "description": "1 citizen photo(s) verify on-the-ground infrastructure disruption."
+          },
+          {
+            "name": "Road & Transit Obstruction",
+            "category": "Public Mobility Risk",
+            "points": 15,
+            "description": "Vehicular movement and pedestrian thoroughfares are compromised."
+          },
+          {
+            "name": "Critical Electrical / Safety Risk",
+            "category": "Life Safety Threat",
+            "points": 25,
+            "description": "Potential high-voltage electrocution hazard or live exposed wire identified."
+          }
+        ],
+        "total_score": 66
+      },
+      "status_trail": [
+        {
+          "id": "EV-1009",
+          "timestamp": "08:55:00",
+          "event_type": "REPORT_RECEIVED",
+          "description": "Sparking feeder pillar reported at JM Road (R-103)",
+          "previous_value": null,
+          "new_value": "R-103"
+        },
+        {
+          "id": "EV-1010",
+          "timestamp": "09:10:00",
+          "event_type": "INCIDENT_CREATED",
+          "description": "Correlated with R-114 into CIV-112; Severity: 58 [HIGH]",
+          "previous_value": null,
+          "new_value": "58"
+        }
+      ],
+      "recommended_resources": [],
+      "shortage_detected": true,
+      "resource_notes": [
+        "CRITICAL DEFICIT: No available team found with capability 'Electrical & Public Safety'. Escalated to mutual aid queue."
+      ]
+    },
+    {
+      "id": "CIV-109",
+      "title": "Deep Pothole Cluster & Caved Footpath",
+      "categories": [
+        "Road & Infrastructure"
+      ],
+      "status": "Triaged",
+      "severity": 55,
+      "priority": "HIGH",
+      "latitude": 18.5245,
+      "longitude": 73.842,
+      "linked_report_ids": [
+        "R-102",
+        "R-108",
+        "R-115"
+      ],
+      "created_at": "2026-10-08T08:30:00",
+      "updated_at": "2026-10-08T08:52:00",
+      "evidence_breakdown": {
+        "location_score": 91,
+        "time_score": 84,
+        "text_score": 82,
+        "evidence_score": 85,
+        "overall_confidence": 86,
+        "confidence_level": "Strong correlation"
+      },
+      "severity_breakdown": {
+        "factors": [
+          {
+            "name": "Multiple Linked Reports",
+            "category": "Volume & Citizen Corroboration",
+            "points": 10,
+            "description": "3 citizen reports independently corroborate this incident cluster."
+          },
+          {
+            "name": "Rapid Incident Growth",
+            "category": "Temporal Velocity",
+            "points": 12,
+            "description": "Report velocity indicates an actively escalating situation."
+          },
+          {
+            "name": "Geographic Impact Area",
+            "category": "Spatial Spread",
+            "points": 10,
+            "description": "Hazard extends over ~77m radius affecting thoroughfares."
+          },
+          {
+            "name": "Verified Visual Evidence",
+            "category": "Corroboration Confidence",
+            "points": 8,
+            "description": "1 citizen photo(s) verify on-the-ground infrastructure disruption."
+          },
+          {
+            "name": "Road & Transit Obstruction",
+            "category": "Public Mobility Risk",
+            "points": 15,
+            "description": "Vehicular movement and pedestrian thoroughfares are compromised."
+          }
+        ],
+        "total_score": 55
+      },
+      "status_trail": [
+        {
+          "id": "EV-1007",
+          "timestamp": "08:30:00",
+          "event_type": "REPORT_RECEIVED",
+          "description": "Pothole hazard reported on FC Road (R-102)",
+          "previous_value": null,
+          "new_value": "R-102"
+        },
+        {
+          "id": "EV-1008",
+          "timestamp": "08:52:00",
+          "event_type": "INCIDENT_CREATED",
+          "description": "Clustered into CIV-109; Severity calculated at 72 [HIGH]",
+          "previous_value": null,
+          "new_value": "72"
+        }
+      ],
+      "recommended_resources": [
+        {
+          "resource_id": "RSRC-01",
+          "name": "General Repair Team 1",
+          "type": "Road & Infrastructure",
+          "matched_capability": "Road & Infrastructure",
+          "distance_meters": 963,
+          "estimated_eta_minutes": 4,
+          "estimated_cost": 109,
+          "is_substitute": false
+        }
+      ],
+      "shortage_detected": false,
+      "resource_notes": []
+    },
+    {
+      "id": "CIV-118",
+      "title": "Clogged Storm Drain & Sewage Overflow",
+      "categories": [
+        "Water & Sanitation"
+      ],
+      "status": "Logged",
+      "severity": 48,
+      "priority": "MEDIUM",
+      "latitude": 18.536,
+      "longitude": 73.834,
+      "linked_report_ids": [
+        "R-105",
+        "R-117",
+        "R-122"
+      ],
+      "created_at": "2026-10-08T08:15:00",
+      "updated_at": "2026-10-08T09:02:00",
+      "evidence_breakdown": {
+        "location_score": 92,
+        "time_score": 82,
+        "text_score": 79,
+        "evidence_score": 84,
+        "overall_confidence": 85,
+        "confidence_level": "Strong correlation"
+      },
+      "severity_breakdown": {
+        "factors": [
+          {
+            "name": "Multiple Linked Reports",
+            "category": "Volume & Citizen Corroboration",
+            "points": 10,
+            "description": "3 citizen reports independently corroborate this incident cluster."
+          },
+          {
+            "name": "Rapid Incident Growth",
+            "category": "Temporal Velocity",
+            "points": 7,
+            "description": "Report velocity indicates an actively escalating situation."
+          },
+          {
+            "name": "Geographic Impact Area",
+            "category": "Spatial Spread",
+            "points": 8,
+            "description": "Hazard extends over ~70m radius affecting thoroughfares."
+          },
+          {
+            "name": "Verified Visual Evidence",
+            "category": "Corroboration Confidence",
+            "points": 8,
+            "description": "1 citizen photo(s) verify on-the-ground infrastructure disruption."
+          },
+          {
+            "name": "Road & Transit Obstruction",
+            "category": "Public Mobility Risk",
+            "points": 15,
+            "description": "Vehicular movement and pedestrian thoroughfares are compromised."
+          }
+        ],
+        "total_score": 48
+      },
+      "status_trail": [
+        {
+          "id": "EV-1011",
+          "timestamp": "08:15:00",
+          "event_type": "REPORT_RECEIVED",
+          "description": "Sewage overflow reported near Model Colony market (R-105)",
+          "previous_value": null,
+          "new_value": "R-105"
+        },
+        {
+          "id": "EV-1012",
+          "timestamp": "09:02:00",
+          "event_type": "INCIDENT_CREATED",
+          "description": "Clustered into CIV-118; Severity: 41 [MEDIUM]",
+          "previous_value": null,
+          "new_value": "41"
+        }
+      ],
+      "recommended_resources": [],
+      "shortage_detected": true,
+      "resource_notes": [
+        "CRITICAL DEFICIT: No available team found with capability 'Water & Sanitation'. Escalated to mutual aid queue."
+      ]
+    },
+    {
+      "id": "CIV-120",
+      "title": "Broken Guard Rail & Flyover Debris",
+      "categories": [
+        "Road & Infrastructure"
+      ],
+      "status": "Logged",
+      "severity": 41,
+      "priority": "MEDIUM",
+      "latitude": 18.5286,
+      "longitude": 73.8526,
+      "linked_report_ids": [
+        "R-106",
+        "R-125"
+      ],
+      "created_at": "2026-10-08T07:50:00",
+      "updated_at": "2026-10-08T08:20:00",
+      "evidence_breakdown": {
+        "location_score": 95,
+        "time_score": 88,
+        "text_score": 84,
+        "evidence_score": 88,
+        "overall_confidence": 89,
+        "confidence_level": "Strong correlation"
+      },
+      "severity_breakdown": {
+        "factors": [
+          {
+            "name": "Multiple Linked Reports",
+            "category": "Volume & Citizen Corroboration",
+            "points": 6,
+            "description": "2 citizen reports independently corroborate this incident cluster."
+          },
+          {
+            "name": "Rapid Incident Growth",
+            "category": "Temporal Velocity",
+            "points": 4,
+            "description": "Report velocity indicates an actively escalating situation."
+          },
+          {
+            "name": "Geographic Impact Area",
+            "category": "Spatial Spread",
+            "points": 8,
+            "description": "Hazard extends over ~31m radius affecting thoroughfares."
+          },
+          {
+            "name": "Verified Visual Evidence",
+            "category": "Corroboration Confidence",
+            "points": 8,
+            "description": "1 citizen photo(s) verify on-the-ground infrastructure disruption."
+          },
+          {
+            "name": "Road & Transit Obstruction",
+            "category": "Public Mobility Risk",
+            "points": 15,
+            "description": "Vehicular movement and pedestrian thoroughfares are compromised."
+          }
+        ],
+        "total_score": 41
+      },
+      "status_trail": [
+        {
+          "id": "EV-1013",
+          "timestamp": "07:50:00",
+          "event_type": "REPORT_RECEIVED",
+          "description": "Bent barrier reported on Sancheti flyover (R-106)",
+          "previous_value": null,
+          "new_value": "R-106"
+        },
+        {
+          "id": "EV-1014",
+          "timestamp": "08:20:00",
+          "event_type": "INCIDENT_CREATED",
+          "description": "Clustered into CIV-120; Severity: 28 [MEDIUM]",
+          "previous_value": null,
+          "new_value": "28"
+        }
+      ],
+      "recommended_resources": [
+        {
+          "resource_id": "RSRC-02",
+          "name": "General Repair Team 2",
+          "type": "Road & Infrastructure",
+          "matched_capability": "Road & Infrastructure",
+          "distance_meters": 1627,
+          "estimated_eta_minutes": 6,
+          "estimated_cost": 119,
+          "is_substitute": false
+        }
+      ],
+      "shortage_detected": false,
+      "resource_notes": []
+    },
+    {
+      "id": "CIV-125",
+      "title": "Flickering Streetlight Cluster along MG Road",
+      "categories": [
+        "Electrical & Public Safety"
+      ],
+      "status": "Logged",
+      "severity": 19,
+      "priority": "LOW",
+      "latitude": 18.5141,
+      "longitude": 73.8591,
+      "linked_report_ids": [
+        "R-109",
+        "R-126"
+      ],
+      "created_at": "2026-10-08T07:15:00",
+      "updated_at": "2026-10-08T07:35:00",
+      "evidence_breakdown": {
+        "location_score": 96,
+        "time_score": 90,
+        "text_score": 82,
+        "evidence_score": 75,
+        "overall_confidence": 86,
+        "confidence_level": "Strong correlation"
+      },
+      "severity_breakdown": {
+        "factors": [
+          {
+            "name": "Multiple Linked Reports",
+            "category": "Volume & Citizen Corroboration",
+            "points": 6,
+            "description": "2 citizen reports independently corroborate this incident cluster."
+          },
+          {
+            "name": "Rapid Incident Growth",
+            "category": "Temporal Velocity",
+            "points": 4,
+            "description": "Report velocity indicates an actively escalating situation."
+          },
+          {
+            "name": "Geographic Impact Area",
+            "category": "Spatial Spread",
+            "points": 8,
+            "description": "Hazard extends over ~39m radius affecting thoroughfares."
+          },
+          {
+            "name": "Low Direct Hazard",
+            "category": "Public Safety",
+            "points": 8,
+            "description": "Darkened sidewalk illumination; no exposed active electrical arcing."
+          }
+        ],
+        "total_score": 19
+      },
+      "status_trail": [
+        {
+          "id": "EV-1015",
+          "timestamp": "07:15:00",
+          "event_type": "REPORT_RECEIVED",
+          "description": "Streetlight outage logged on MG Road (R-109)",
+          "previous_value": null,
+          "new_value": "R-109"
+        },
+        {
+          "id": "EV-1016",
+          "timestamp": "07:35:00",
+          "event_type": "INCIDENT_CREATED",
+          "description": "Clustered into CIV-125; Severity: 19 [LOW]",
+          "previous_value": null,
+          "new_value": "19"
+        }
+      ],
+      "recommended_resources": [],
+      "shortage_detected": true,
+      "resource_notes": [
+        "CRITICAL DEFICIT: No available team found with capability 'Electrical & Public Safety'. Escalated to mutual aid queue."
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "id": "RSRC-01",
+      "name": "General Repair Team 1",
+      "type": "Road & Infrastructure",
+      "capabilities": [
+        "Road & Infrastructure",
+        "General",
+        "Debris Clearance"
+      ],
+      "availability": "Available",
+      "current_status": "Ready on Standby",
+      "current_assignment": null,
+      "latitude": 18.523,
+      "longitude": 73.851,
+      "base_station": "Central Municipal Depot A",
+      "cost_per_hour": 95,
+      "capacity": 2
+    },
+    {
+      "id": "RSRC-02",
+      "name": "General Repair Team 2",
+      "type": "Road & Infrastructure",
+      "capabilities": [
+        "Road & Infrastructure",
+        "General",
+        "Barrier Fixing"
+      ],
+      "availability": "Available",
+      "current_status": "Ready on Standby",
+      "current_assignment": null,
+      "latitude": 18.517,
+      "longitude": 73.862,
+      "base_station": "Eastern Sector Depot B",
+      "cost_per_hour": 95,
+      "capacity": 2
+    },
+    {
+      "id": "RSRC-03",
+      "name": "Water Response Team",
+      "type": "Water & Sanitation",
+      "capabilities": [
+        "Water & Sanitation",
+        "Pipeline Repair",
+        "High-Volume Pumping"
+      ],
+      "availability": "Available",
+      "current_status": "Ready on Standby",
+      "current_assignment": null,
+      "latitude": 18.528,
+      "longitude": 73.854,
+      "base_station": "Northern Water Works Facility",
+      "cost_per_hour": 150,
+      "capacity": 3
+    },
+    {
+      "id": "RSRC-04",
+      "name": "Electrical Response Team",
+      "type": "Electrical & Public Safety",
+      "capabilities": [
+        "Electrical & Public Safety",
+        "High Voltage",
+        "Grid Isolation",
+        "Wire Repair"
+      ],
+      "availability": "Available",
+      "current_status": "Ready on Standby",
+      "current_assignment": null,
+      "latitude": 18.519,
+      "longitude": 73.849,
+      "base_station": "Safety & Power Substation 4",
+      "cost_per_hour": 180,
+      "capacity": 2
+    },
+    {
+      "id": "RSRC-05",
+      "name": "Emergency Response Vehicle",
+      "type": "Multi-Hazards / Quick Response",
+      "capabilities": [
+        "Emergency Response Vehicle",
+        "Multi-Hazards",
+        "Traffic Diversion",
+        "Hazard Containment"
+      ],
+      "availability": "Available",
+      "current_status": "Rapid Deployment Ready",
+      "current_assignment": null,
+      "latitude": 18.521,
+      "longitude": 73.855,
+      "base_station": "Civic Quick Reaction Center",
+      "cost_per_hour": 140,
+      "capacity": 4
+    }
+  ],
+  "statusTrail": []
+}

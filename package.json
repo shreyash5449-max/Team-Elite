@@ -1,0 +1,18 @@
+{
+  "name": "civicpulse-monorepo",
+  "version": "1.0.0",
+  "description": "CivicPulse - Intelligent Multi-Source Civic Incident Coordination Platform",
+  "private": true,
+  "scripts": {
+    "install:all": "npm --prefix backend install && npm --prefix frontend install",
+    "test": "npm --prefix backend test",
+    "build": "npm --prefix frontend run build",
+    "server": "npm --prefix backend run dev",
+    "client": "npm --prefix frontend run dev",
+    "dev": "concurrently -n \"BACKEND,FRONTEND\" -c \"cyan,magenta\" \"npm run server\" \"npm run client\"",
+    "start": "concurrently -n \"BACKEND,FRONTEND\" -c \"cyan,magenta\" \"npm --prefix backend start\" \"npm --prefix frontend run dev\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

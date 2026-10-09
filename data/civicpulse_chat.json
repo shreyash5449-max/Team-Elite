@@ -1,0 +1,571 @@
+{
+  "updated_at": "2026-10-08T23:35:19.054Z",
+  "conversations": [
+    {
+      "id": "CONV-R101",
+      "report_id": "R-101",
+      "citizen_id": "CIT-101",
+      "citizen_name": "Aarav Mehta",
+      "authority_id": "AUTH-03",
+      "authority_name": "Officer Priya Deshmukh",
+      "authority_dept": "Water & Sanitation",
+      "authority_role": "Chief Water Works Superintendent",
+      "authority_status": "online",
+      "authority_avatar": "PD",
+      "complaint_title": "Water is leaking heavily onto the road near Shivaji Nagar junction.",
+      "complaint_status": "Investigating",
+      "created_at": "2026-10-08T09:10:00.000Z",
+      "updated_at": "2026-10-08T23:35:19.054Z",
+      "unread_for_citizen": 21,
+      "unread_for_authority": 0,
+      "last_message": "Field technician is currently clearing the main drain outlet. ETA to complete drainage: 20 minutes."
+    },
+    {
+      "id": "CONV-R1021",
+      "report_id": "R-140",
+      "citizen_id": "CIT-1021",
+      "citizen_name": "Rajesh Kulkarni",
+      "authority_id": "AUTH-04",
+      "authority_name": "Officer Vikram Patil",
+      "authority_dept": "Electrical & Public Safety",
+      "authority_role": "Grid & Power Response Lead",
+      "authority_status": "online",
+      "authority_avatar": "VP",
+      "complaint_title": "Overhead power cable snapped and fell into flooded water, sparking actively.",
+      "complaint_status": "Investigating",
+      "created_at": "2026-10-08T10:05:00.000Z",
+      "updated_at": "2026-10-08T10:15:00.000Z",
+      "unread_for_citizen": 0,
+      "unread_for_authority": 1
+    },
+    {
+      "id": "CONV-R-107",
+      "report_id": "R-107",
+      "citizen_id": "CIT-R-107",
+      "citizen_name": "Citizen (R-107)",
+      "authority_id": "AUTH-03",
+      "authority_name": "Officer Priya Deshmukh",
+      "authority_dept": "Water & Sanitation",
+      "authority_role": "Chief Water Works Superintendent",
+      "authority_status": "online",
+      "authority_avatar": "PD",
+      "complaint_title": "The road near the junction is flooded with gushing water from a broken main.",
+      "complaint_status": "Linked",
+      "created_at": "2026-10-08T22:20:10.217Z",
+      "updated_at": "2026-10-08T22:20:10.217Z",
+      "unread_for_citizen": 1,
+      "unread_for_authority": 0
+    }
+  ],
+  "messages": {
+    "CONV-R101": [
+      {
+        "id": "MSG-101-1",
+        "conversation_id": "CONV-R101",
+        "sender_id": "CIT-101",
+        "sender_name": "Aarav Mehta",
+        "sender_role": "citizen",
+        "text": "Hello, the water leak near Shivaji Nagar junction is getting worse. Pedestrians are unable to cross.",
+        "attachment": {
+          "name": "water_leak_junction.jpg",
+          "url": "/evidence/water_leak_junction.jpg",
+          "type": "image/jpeg",
+          "size_bytes": 420000
+        },
+        "timestamp": "2026-10-08T09:15:00.000Z",
+        "read": true,
+        "read_at": "2026-10-08T09:16:30.000Z"
+      },
+      {
+        "id": "MSG-101-2",
+        "conversation_id": "CONV-R101",
+        "sender_id": "AUTH-03",
+        "sender_name": "Officer Priya Deshmukh",
+        "sender_role": "authority",
+        "text": "Thank you for reporting, Aarav. Our Water Response Team (RSRC-03) has received this telemetry. We have dispatched field crew with high-volume pumps.",
+        "attachment": null,
+        "timestamp": "2026-10-08T09:20:00.000Z",
+        "read": true,
+        "read_at": "2026-10-08T09:21:00.000Z"
+      },
+      {
+        "id": "MSG-101-3",
+        "conversation_id": "CONV-R101",
+        "sender_id": "AUTH-03",
+        "sender_name": "Officer Priya Deshmukh",
+        "sender_role": "authority",
+        "text": "Valve isolation is underway. Please avoid stepping in standing water until electrical containment is verified.",
+        "attachment": null,
+        "timestamp": "2026-10-08T09:25:00.000Z",
+        "read": false,
+        "read_at": null
+      },
+      {
+        "id": "MSG-1791498010230-268",
+        "conversation_id": "CONV-R101",
+        "sender_id": "CIT-101",
+        "sender_name": "Aarav Mehta",
+        "sender_role": "citizen",
+        "text": "The road water level has reached knee height near the bus stand.",
+        "attachment": {
+          "name": "water_crossing.jpg",
+          "url": "/evidence/water_leak_junction.jpg",
+          "type": "image/jpeg",
+          "size_bytes": 350000
+        },
+        "timestamp": "2026-10-08T22:20:10.230Z",
+        "read": true,
+        "read_at": "2026-10-08T22:20:10.237Z"
+      },
+      {
+        "id": "MSG-1791498010243-77",
+        "conversation_id": "CONV-R101",
+        "sender_id": "AUTH-03",
+        "sender_name": "Officer Priya Deshmukh",
+        "sender_role": "authority",
+        "text": "Field technician is currently clearing the main drain outlet. ETA to complete drainage: 20 minutes.",
+        "attachment": null,
+        "timestamp": "2026-10-08T22:20:10.243Z",
+        "read": false,
+        "read_at": null
+      },
+      {
+        "id": "MSG-SYS-1791498010251",
+        "conversation_id": "CONV-R101",
+        "sender_id": "SYSTEM",
+        "sender_name": "CivicPulse Dispatch Status Trail",
+        "sender_role": "system",
+        "text": "📋 Complaint status updated to: Investigating by Officer Priya Deshmukh.",
+        "attachment": null,
+        "timestamp": "2026-10-08T22:20:10.251Z",
+        "read": true,
+        "read_at": "2026-10-08T22:21:27.176Z"
+      },
+      {
+        "id": "MSG-1791498087168-214",
+        "conversation_id": "CONV-R101",
+        "sender_id": "CIT-101",
+        "sender_name": "Aarav Mehta",
+        "sender_role": "citizen",
+        "text": "The road water level has reached knee height near the bus stand.",
+        "attachment": {
+          "name": "water_crossing.jpg",
+          "url": "/evidence/water_leak_junction.jpg",
+          "type": "image/jpeg",
+          "size_bytes": 350000
+        },
+        "timestamp": "2026-10-08T22:21:27.168Z",
+        "read": true,
+        "read_at": "2026-10-08T22:21:27.176Z"
+      },
+      {
+        "id": "MSG-1791498087182-14",
+        "conversation_id": "CONV-R101",
+        "sender_id": "AUTH-03",
+        "sender_name": "Officer Priya Deshmukh",
+        "sender_role": "authority",
+        "text": "Field technician is currently clearing the main drain outlet. ETA to complete drainage: 20 minutes.",
+        "attachment": null,
+        "timestamp": "2026-10-08T22:21:27.182Z",
+        "read": false,
+        "read_at": null
+      },
+      {
+        "id": "MSG-SYS-1791498087190",
+        "conversation_id": "CONV-R101",
+        "sender_id": "SYSTEM",
+        "sender_name": "CivicPulse Dispatch Status Trail",
+        "sender_role": "system",
+        "text": "📋 Complaint status updated to: Investigating by Officer Priya Deshmukh.",
+        "attachment": null,
+        "timestamp": "2026-10-08T22:21:27.190Z",
+        "read": true,
+        "read_at": "2026-10-08T22:22:23.373Z"
+      },
+      {
+        "id": "MSG-1791498143364-354",
+        "conversation_id": "CONV-R101",
+        "sender_id": "CIT-101",
+        "sender_name": "Aarav Mehta",
+        "sender_role": "citizen",
+        "text": "The road water level has reached knee height near the bus stand.",
+        "attachment": {
+          "name": "water_crossing.jpg",
+          "url": "/evidence/water_leak_junction.jpg",
+          "type": "image/jpeg",
+          "size_bytes": 350000
+        },
+        "timestamp": "2026-10-08T22:22:23.364Z",
+        "read": true,
+        "read_at": "2026-10-08T22:22:23.373Z"
+      },
+      {
+        "id": "MSG-1791498143384-208",
+        "conversation_id": "CONV-R101",
+        "sender_id": "AUTH-03",
+        "sender_name": "Officer Priya Deshmukh",
+        "sender_role": "authority",
+        "text": "Field technician is currently clearing the main drain outlet. ETA to complete drainage: 20 minutes.",
+        "attachment": null,
+        "timestamp": "2026-10-08T22:22:23.384Z",
+        "read": false,
+        "read_at": null
+      },
+      {
+        "id": "MSG-SYS-1791498143391",
+        "conversation_id": "CONV-R101",
+        "sender_id": "SYSTEM",
+        "sender_name": "CivicPulse Dispatch Status Trail",
+        "sender_role": "system",
+        "text": "📋 Complaint status updated to: Investigating by Officer Priya Deshmukh.",
+        "attachment": null,
+        "timestamp": "2026-10-08T22:22:23.391Z",
+        "read": true,
+        "read_at": "2026-10-08T22:29:03.413Z"
+      },
+      {
+        "id": "MSG-1791498543406-56",
+        "conversation_id": "CONV-R101",
+        "sender_id": "CIT-101",
+        "sender_name": "Aarav Mehta",
+        "sender_role": "citizen",
+        "text": "The road water level has reached knee height near the bus stand.",
+        "attachment": {
+          "name": "water_crossing.jpg",
+          "url": "/evidence/water_leak_junction.jpg",
+          "type": "image/jpeg",
+          "size_bytes": 350000
+        },
+        "timestamp": "2026-10-08T22:29:03.406Z",
+        "read": true,
+        "read_at": "2026-10-08T22:29:03.413Z"
+      },
+      {
+        "id": "MSG-1791498543419-213",
+        "conversation_id": "CONV-R101",
+        "sender_id": "AUTH-03",
+        "sender_name": "Officer Priya Deshmukh",
+        "sender_role": "authority",
+        "text": "Field technician is currently clearing the main drain outlet. ETA to complete drainage: 20 minutes.",
+        "attachment": null,
+        "timestamp": "2026-10-08T22:29:03.419Z",
+        "read": false,
+        "read_at": null
+      },
+      {
+        "id": "MSG-SYS-1791498543426",
+        "conversation_id": "CONV-R101",
+        "sender_id": "SYSTEM",
+        "sender_name": "CivicPulse Dispatch Status Trail",
+        "sender_role": "system",
+        "text": "📋 Complaint status updated to: Investigating by Officer Priya Deshmukh.",
+        "attachment": null,
+        "timestamp": "2026-10-08T22:29:03.426Z",
+        "read": true,
+        "read_at": "2026-10-08T22:36:30.616Z"
+      },
+      {
+        "id": "MSG-1791498990610-591",
+        "conversation_id": "CONV-R101",
+        "sender_id": "CIT-101",
+        "sender_name": "Aarav Mehta",
+        "sender_role": "citizen",
+        "text": "The road water level has reached knee height near the bus stand.",
+        "attachment": {
+          "name": "water_crossing.jpg",
+          "url": "/evidence/water_leak_junction.jpg",
+          "type": "image/jpeg",
+          "size_bytes": 350000
+        },
+        "timestamp": "2026-10-08T22:36:30.610Z",
+        "read": true,
+        "read_at": "2026-10-08T22:36:30.616Z"
+      },
+      {
+        "id": "MSG-1791498990621-68",
+        "conversation_id": "CONV-R101",
+        "sender_id": "AUTH-03",
+        "sender_name": "Officer Priya Deshmukh",
+        "sender_role": "authority",
+        "text": "Field technician is currently clearing the main drain outlet. ETA to complete drainage: 20 minutes.",
+        "attachment": null,
+        "timestamp": "2026-10-08T22:36:30.621Z",
+        "read": false,
+        "read_at": null
+      },
+      {
+        "id": "MSG-SYS-1791498990627",
+        "conversation_id": "CONV-R101",
+        "sender_id": "SYSTEM",
+        "sender_name": "CivicPulse Dispatch Status Trail",
+        "sender_role": "system",
+        "text": "📋 Complaint status updated to: Investigating by Officer Priya Deshmukh.",
+        "attachment": null,
+        "timestamp": "2026-10-08T22:36:30.627Z",
+        "read": true,
+        "read_at": "2026-10-08T22:43:12.243Z"
+      },
+      {
+        "id": "MSG-1791499392236-41",
+        "conversation_id": "CONV-R101",
+        "sender_id": "CIT-101",
+        "sender_name": "Aarav Mehta",
+        "sender_role": "citizen",
+        "text": "The road water level has reached knee height near the bus stand.",
+        "attachment": {
+          "name": "water_crossing.jpg",
+          "url": "/evidence/water_leak_junction.jpg",
+          "type": "image/jpeg",
+          "size_bytes": 350000
+        },
+        "timestamp": "2026-10-08T22:43:12.236Z",
+        "read": true,
+        "read_at": "2026-10-08T22:43:12.243Z"
+      },
+      {
+        "id": "MSG-1791499392249-208",
+        "conversation_id": "CONV-R101",
+        "sender_id": "AUTH-03",
+        "sender_name": "Officer Priya Deshmukh",
+        "sender_role": "authority",
+        "text": "Field technician is currently clearing the main drain outlet. ETA to complete drainage: 20 minutes.",
+        "attachment": null,
+        "timestamp": "2026-10-08T22:43:12.249Z",
+        "read": false,
+        "read_at": null
+      },
+      {
+        "id": "MSG-SYS-1791499392255",
+        "conversation_id": "CONV-R101",
+        "sender_id": "SYSTEM",
+        "sender_name": "CivicPulse Dispatch Status Trail",
+        "sender_role": "system",
+        "text": "📋 Complaint status updated to: Investigating by Officer Priya Deshmukh.",
+        "attachment": null,
+        "timestamp": "2026-10-08T22:43:12.255Z",
+        "read": true,
+        "read_at": "2026-10-08T22:52:19.339Z"
+      },
+      {
+        "id": "MSG-1791499939333-844",
+        "conversation_id": "CONV-R101",
+        "sender_id": "CIT-101",
+        "sender_name": "Aarav Mehta",
+        "sender_role": "citizen",
+        "text": "The road water level has reached knee height near the bus stand.",
+        "attachment": {
+          "name": "water_crossing.jpg",
+          "url": "/evidence/water_leak_junction.jpg",
+          "type": "image/jpeg",
+          "size_bytes": 350000
+        },
+        "timestamp": "2026-10-08T22:52:19.333Z",
+        "read": true,
+        "read_at": "2026-10-08T22:52:19.339Z"
+      },
+      {
+        "id": "MSG-1791499939347-849",
+        "conversation_id": "CONV-R101",
+        "sender_id": "AUTH-03",
+        "sender_name": "Officer Priya Deshmukh",
+        "sender_role": "authority",
+        "text": "Field technician is currently clearing the main drain outlet. ETA to complete drainage: 20 minutes.",
+        "attachment": null,
+        "timestamp": "2026-10-08T22:52:19.347Z",
+        "read": false,
+        "read_at": null
+      },
+      {
+        "id": "MSG-SYS-1791499939354",
+        "conversation_id": "CONV-R101",
+        "sender_id": "SYSTEM",
+        "sender_name": "CivicPulse Dispatch Status Trail",
+        "sender_role": "system",
+        "text": "📋 Complaint status updated to: Investigating by Officer Priya Deshmukh.",
+        "attachment": null,
+        "timestamp": "2026-10-08T22:52:19.354Z",
+        "read": true,
+        "read_at": "2026-10-08T22:58:16.653Z"
+      },
+      {
+        "id": "MSG-1791500296647-217",
+        "conversation_id": "CONV-R101",
+        "sender_id": "CIT-101",
+        "sender_name": "Aarav Mehta",
+        "sender_role": "citizen",
+        "text": "The road water level has reached knee height near the bus stand.",
+        "attachment": {
+          "name": "water_crossing.jpg",
+          "url": "/evidence/water_leak_junction.jpg",
+          "type": "image/jpeg",
+          "size_bytes": 350000
+        },
+        "timestamp": "2026-10-08T22:58:16.647Z",
+        "read": true,
+        "read_at": "2026-10-08T22:58:16.653Z"
+      },
+      {
+        "id": "MSG-1791500296659-31",
+        "conversation_id": "CONV-R101",
+        "sender_id": "AUTH-03",
+        "sender_name": "Officer Priya Deshmukh",
+        "sender_role": "authority",
+        "text": "Field technician is currently clearing the main drain outlet. ETA to complete drainage: 20 minutes.",
+        "attachment": null,
+        "timestamp": "2026-10-08T22:58:16.659Z",
+        "read": false,
+        "read_at": null
+      },
+      {
+        "id": "MSG-SYS-1791500296665",
+        "conversation_id": "CONV-R101",
+        "sender_id": "SYSTEM",
+        "sender_name": "CivicPulse Dispatch Status Trail",
+        "sender_role": "system",
+        "text": "📋 Complaint status updated to: Investigating by Officer Priya Deshmukh.",
+        "attachment": null,
+        "timestamp": "2026-10-08T22:58:16.665Z",
+        "read": true,
+        "read_at": "2026-10-08T22:59:18.376Z"
+      },
+      {
+        "id": "MSG-1791500358370-765",
+        "conversation_id": "CONV-R101",
+        "sender_id": "CIT-101",
+        "sender_name": "Aarav Mehta",
+        "sender_role": "citizen",
+        "text": "The road water level has reached knee height near the bus stand.",
+        "attachment": {
+          "name": "water_crossing.jpg",
+          "url": "/evidence/water_leak_junction.jpg",
+          "type": "image/jpeg",
+          "size_bytes": 350000
+        },
+        "timestamp": "2026-10-08T22:59:18.370Z",
+        "read": true,
+        "read_at": "2026-10-08T22:59:18.376Z"
+      },
+      {
+        "id": "MSG-1791500358383-689",
+        "conversation_id": "CONV-R101",
+        "sender_id": "AUTH-03",
+        "sender_name": "Officer Priya Deshmukh",
+        "sender_role": "authority",
+        "text": "Field technician is currently clearing the main drain outlet. ETA to complete drainage: 20 minutes.",
+        "attachment": null,
+        "timestamp": "2026-10-08T22:59:18.383Z",
+        "read": false,
+        "read_at": null
+      },
+      {
+        "id": "MSG-SYS-1791500358388",
+        "conversation_id": "CONV-R101",
+        "sender_id": "SYSTEM",
+        "sender_name": "CivicPulse Dispatch Status Trail",
+        "sender_role": "system",
+        "text": "📋 Complaint status updated to: Investigating by Officer Priya Deshmukh.",
+        "attachment": null,
+        "timestamp": "2026-10-08T22:59:18.388Z",
+        "read": true,
+        "read_at": "2026-10-08T23:35:19.040Z"
+      },
+      {
+        "id": "MSG-1791502519033-144",
+        "conversation_id": "CONV-R101",
+        "sender_id": "CIT-101",
+        "sender_name": "Aarav Mehta",
+        "sender_role": "citizen",
+        "text": "The road water level has reached knee height near the bus stand.",
+        "attachment": {
+          "name": "water_crossing.jpg",
+          "url": "/evidence/water_leak_junction.jpg",
+          "type": "image/jpeg",
+          "size_bytes": 350000
+        },
+        "timestamp": "2026-10-08T23:35:19.033Z",
+        "read": true,
+        "read_at": "2026-10-08T23:35:19.040Z"
+      },
+      {
+        "id": "MSG-1791502519048-934",
+        "conversation_id": "CONV-R101",
+        "sender_id": "AUTH-03",
+        "sender_name": "Officer Priya Deshmukh",
+        "sender_role": "authority",
+        "text": "Field technician is currently clearing the main drain outlet. ETA to complete drainage: 20 minutes.",
+        "attachment": null,
+        "timestamp": "2026-10-08T23:35:19.048Z",
+        "read": false,
+        "read_at": null
+      },
+      {
+        "id": "MSG-SYS-1791502519054",
+        "conversation_id": "CONV-R101",
+        "sender_id": "SYSTEM",
+        "sender_name": "CivicPulse Dispatch Status Trail",
+        "sender_role": "system",
+        "text": "📋 Complaint status updated to: Investigating by Officer Priya Deshmukh.",
+        "attachment": null,
+        "timestamp": "2026-10-08T23:35:19.054Z",
+        "read": false,
+        "read_at": null
+      }
+    ],
+    "CONV-R1021": [
+      {
+        "id": "MSG-1021-1",
+        "conversation_id": "CONV-R1021",
+        "sender_id": "CIT-1021",
+        "sender_name": "Rajesh Kulkarni",
+        "sender_role": "citizen",
+        "text": "URGENT: Live electrical power line fell right into the flooded road near Shivaji Nagar! Active sparks flying!",
+        "attachment": {
+          "name": "electrical_hazard_line.jpg",
+          "url": "/evidence/electrical_hazard_line.jpg",
+          "type": "image/jpeg",
+          "size_bytes": 380000
+        },
+        "timestamp": "2026-10-08T10:06:00.000Z",
+        "read": true,
+        "read_at": "2026-10-08T10:08:00.000Z"
+      },
+      {
+        "id": "MSG-1021-2",
+        "conversation_id": "CONV-R1021",
+        "sender_id": "AUTH-04",
+        "sender_name": "Officer Vikram Patil",
+        "sender_role": "authority",
+        "text": "Acknowledged Rajesh. Substation 4 has initiated emergency feeder tripping. Stay at least 30 meters clear of the water pool.",
+        "attachment": null,
+        "timestamp": "2026-10-08T10:10:00.000Z",
+        "read": true,
+        "read_at": "2026-10-08T10:11:00.000Z"
+      },
+      {
+        "id": "MSG-1021-3",
+        "sender_id": "CIT-1021",
+        "sender_name": "Rajesh Kulkarni",
+        "sender_role": "citizen",
+        "text": "Police has blocked traffic from the south entrance. Standing by safe distance.",
+        "attachment": null,
+        "timestamp": "2026-10-08T10:15:00.000Z",
+        "read": false,
+        "read_at": null
+      }
+    ],
+    "CONV-R-107": [
+      {
+        "id": "MSG-1791498010217-welcome",
+        "conversation_id": "CONV-R-107",
+        "sender_id": "AUTH-03",
+        "sender_name": "Officer Priya Deshmukh",
+        "sender_role": "authority",
+        "text": "Hello Citizen (R-107). I am Officer Priya Deshmukh from Water & Sanitation. This is a private, confidential channel for your complaint R-107. How can I assist you with this report?",
+        "attachment": null,
+        "timestamp": "2026-10-08T22:20:10.218Z",
+        "read": false,
+        "read_at": null
+      }
+    ]
+  }
+}

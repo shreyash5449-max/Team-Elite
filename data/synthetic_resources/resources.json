@@ -1,0 +1,79 @@
+[
+  {
+    "id": "RSRC-01",
+    "name": "General Repair Team 1",
+    "type": "Road & Infrastructure",
+    "capabilities": [
+      "Road & Infrastructure",
+      "General",
+      "Debris Clearance"
+    ],
+    "availability": "Available",
+    "current_assignment": null,
+    "latitude": 18.523,
+    "longitude": 73.851,
+    "base_station": "Central Municipal Depot A"
+  },
+  {
+    "id": "RSRC-02",
+    "name": "General Repair Team 2",
+    "type": "Road & Infrastructure",
+    "capabilities": [
+      "Road & Infrastructure",
+      "General",
+      "Barrier Fixing"
+    ],
+    "availability": "Available",
+    "current_assignment": null,
+    "latitude": 18.517,
+    "longitude": 73.862,
+    "base_station": "Eastern Sector Depot B"
+  },
+  {
+    "id": "RSRC-03",
+    "name": "Water Response Team",
+    "type": "Water & Sanitation",
+    "capabilities": [
+      "Water & Sanitation",
+      "Pipeline Repair",
+      "High-Volume Pumping"
+    ],
+    "availability": "Available",
+    "current_assignment": null,
+    "latitude": 18.528,
+    "longitude": 73.854,
+    "base_station": "Northern Water Works Facility"
+  },
+  {
+    "id": "RSRC-04",
+    "name": "Electrical Response Team",
+    "type": "Electrical & Public Safety",
+    "capabilities": [
+      "Electrical & Public Safety",
+      "High Voltage",
+      "Grid Isolation",
+      "Wire Repair"
+    ],
+    "availability": "Available",
+    "current_assignment": null,
+    "latitude": 18.519,
+    "longitude": 73.849,
+    "base_station": "Safety & Power Substation 4"
+  },
+  {
+    "id": "RSRC-05",
+    "name": "Emergency Response Vehicle",
+    "type": "Multi-Hazards / Quick Response",
+    "capabilities": [
+      "Emergency Response Vehicle",
+      "Multi-Hazards",
+      "Traffic Diversion",
+      "Hazard Containment"
+    ],
+    "availability": "Available",
+    "current_assignment": null,
+    "latitude": 18.521,
+    "longitude": 73.855,
+    "base_station": "Civic Quick Reaction Center"
+  }
+]

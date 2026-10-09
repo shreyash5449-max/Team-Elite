@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="100%" height="100%">
+    <rect width="400" height="260" fill="#18181b"/>
+    <ellipse cx="200" cy="160" rx="120" ry="50" fill="#09090b"/>
+    <ellipse cx="195" cy="162" rx="85" ry="32" fill="#000000"/>
+    <text x="20" y="32" fill="#f97316" font-family="sans-serif" font-weight="bold" font-size="13">CRITICAL ASPHALT CRATER / CAVED ROAD</text>
+    <text x="20" y="245" fill="#94a3b8" font-family="sans-serif" font-size="11">Evidence Report R-102 • FC Road Arterial Corridor</text>
+  </svg>

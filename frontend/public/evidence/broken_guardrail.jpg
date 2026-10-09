@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="100%" height="100%">
+    <rect width="400" height="260" fill="#1f242d"/>
+    <path d="M 30 160 L 160 145 L 220 190 L 370 140" stroke="#94a3b8" stroke-width="14" fill="none" stroke-linecap="round"/>
+    <text x="20" y="32" fill="#f59e0b" font-family="sans-serif" font-weight="bold" font-size="13">BROKEN IMPACT GUARD RAIL PROTRUSION</text>
+    <text x="20" y="245" fill="#94a3b8" font-family="sans-serif" font-size="11">Evidence Report R-106 • Sancheti Flyover Ramp</text>
+  </svg>

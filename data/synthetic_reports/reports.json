@@ -1,0 +1,250 @@
+[
+  {
+    "report_id": "R-101",
+    "category": "Water & Sanitation",
+    "description": "Water is leaking heavily onto the road near Shivaji Nagar junction.",
+    "latitude": 18.5204,
+    "longitude": 73.8567,
+    "timestamp": "2026-10-08T09:05:00",
+    "image": "water_leak_junction.jpg",
+    "metadata": {
+      "source": "Mobile App",
+      "channel": "Citizen Mobile"
+    }
+  },
+  {
+    "report_id": "R-107",
+    "category": "Water & Sanitation",
+    "description": "The road near the junction is flooded with gushing water from a broken main.",
+    "latitude": 18.5206,
+    "longitude": 73.8569,
+    "timestamp": "2026-10-08T09:12:00",
+    "image": null,
+    "metadata": {
+      "source": "Web Portal",
+      "channel": "Public Portal"
+    }
+  },
+  {
+    "report_id": "R-112",
+    "category": "Water & Sanitation",
+    "description": "There is a large water leak near the bus stop causing traffic slowdown and puddle accumulation.",
+    "latitude": 18.5203,
+    "longitude": 73.8565,
+    "timestamp": "2026-10-08T09:18:00",
+    "image": null,
+    "metadata": {
+      "source": "Mobile App",
+      "channel": "Citizen Mobile"
+    }
+  },
+  {
+    "report_id": "R-119",
+    "category": "Water & Sanitation",
+    "description": "Underground water pipeline appears cracked; water spilling across two traffic lanes.",
+    "latitude": 18.5208,
+    "longitude": 73.8571,
+    "timestamp": "2026-10-08T09:22:00",
+    "image": null,
+    "metadata": {
+      "source": "Hotline",
+      "channel": "IVR Voice Log"
+    }
+  },
+  {
+    "report_id": "R-121",
+    "category": "Water & Sanitation",
+    "description": "Flooding spreading across the pedestrian crossing near Shivaji Nagar bus stop.",
+    "latitude": 18.5205,
+    "longitude": 73.8568,
+    "timestamp": "2026-10-08T09:25:00",
+    "image": "flooded_street_crossing.jpg",
+    "metadata": {
+      "source": "Mobile App",
+      "channel": "Citizen Mobile"
+    }
+  },
+  {
+    "report_id": "R-124",
+    "category": "Water & Sanitation",
+    "description": "Two wheelers slipping on waterlogged street; deep pooling water at the intersection.",
+    "latitude": 18.5207,
+    "longitude": 73.8566,
+    "timestamp": "2026-10-08T09:26:00",
+    "image": null,
+    "metadata": {
+      "source": "Web Portal",
+      "channel": "Public Portal"
+    }
+  },
+  {
+    "report_id": "R-128",
+    "category": "Water & Sanitation",
+    "description": "Severe water overflow from underground line entering bus shelter area.",
+    "latitude": 18.5202,
+    "longitude": 73.8569,
+    "timestamp": "2026-10-08T09:27:00",
+    "image": null,
+    "metadata": {
+      "source": "Mobile App",
+      "channel": "Citizen Mobile"
+    }
+  },
+  {
+    "report_id": "R-130",
+    "category": "Water & Sanitation",
+    "description": "Water pressure gushing from damaged valve near pavement curb.",
+    "latitude": 18.5209,
+    "longitude": 73.8572,
+    "timestamp": "2026-10-08T09:28:00",
+    "image": null,
+    "metadata": {
+      "source": "Mobile App",
+      "channel": "Citizen Mobile"
+    }
+  },
+  {
+    "report_id": "R-102",
+    "category": "Road & Infrastructure",
+    "description": "Deep hazardous pothole cluster on FC Road causing sudden vehicle swerves.",
+    "latitude": 18.5245,
+    "longitude": 73.842,
+    "timestamp": "2026-10-08T08:30:00",
+    "image": "deep_pothole.jpg",
+    "metadata": {
+      "source": "Mobile App"
+    }
+  },
+  {
+    "report_id": "R-108",
+    "category": "Road & Infrastructure",
+    "description": "Sunken road surface and caved asphalt creating dangerous trap for motorbikes.",
+    "latitude": 18.5248,
+    "longitude": 73.8423,
+    "timestamp": "2026-10-08T08:45:00",
+    "image": null,
+    "metadata": {
+      "source": "Web Portal"
+    }
+  },
+  {
+    "report_id": "R-115",
+    "category": "Road & Infrastructure",
+    "description": "Crater on FC road lane 2; broken pavement stones scattered on road.",
+    "latitude": 18.5243,
+    "longitude": 73.8418,
+    "timestamp": "2026-10-08T08:52:00",
+    "image": null,
+    "metadata": {
+      "source": "Mobile App"
+    }
+  },
+  {
+    "report_id": "R-103",
+    "category": "Electrical & Public Safety",
+    "description": "Damaged electrical junction box with exposed sparking wires at JM Road corner.",
+    "latitude": 18.5312,
+    "longitude": 73.8465,
+    "timestamp": "2026-10-08T08:55:00",
+    "image": "exposed_wires_box.jpg",
+    "metadata": {
+      "source": "Mobile App"
+    }
+  },
+  {
+    "report_id": "R-114",
+    "category": "Electrical & Public Safety",
+    "description": "Feeder pillar door is broken open with loose high-voltage cables visible to pedestrians.",
+    "latitude": 18.5315,
+    "longitude": 73.8468,
+    "timestamp": "2026-10-08T09:10:00",
+    "image": null,
+    "metadata": {
+      "source": "Hotline"
+    }
+  },
+  {
+    "report_id": "R-105",
+    "category": "Water & Sanitation",
+    "description": "Clogged storm drain overflowing black stagnant sewage water near Model Colony market.",
+    "latitude": 18.536,
+    "longitude": 73.834,
+    "timestamp": "2026-10-08T08:15:00",
+    "image": "clogged_drain.jpg",
+    "metadata": {
+      "source": "Web Portal"
+    }
+  },
+  {
+    "report_id": "R-117",
+    "category": "Water & Sanitation",
+    "description": "Drainage channel blocked by plastic silt; sewage spilling onto sidewalk.",
+    "latitude": 18.5363,
+    "longitude": 73.8342,
+    "timestamp": "2026-10-08T08:40:00",
+    "image": null,
+    "metadata": {
+      "source": "Mobile App"
+    }
+  },
+  {
+    "report_id": "R-122",
+    "category": "Water & Sanitation",
+    "description": "Manhole grating clogged with trash causing foul water backup.",
+    "latitude": 18.5358,
+    "longitude": 73.8338,
+    "timestamp": "2026-10-08T09:02:00",
+    "image": null,
+    "metadata": {
+      "source": "Mobile App"
+    }
+  },
+  {
+    "report_id": "R-106",
+    "category": "Road & Infrastructure",
+    "description": "Broken metal guard rail dangling into vehicular lane on Sancheti flyover ramp.",
+    "latitude": 18.5285,
+    "longitude": 73.8525,
+    "timestamp": "2026-10-08T07:50:00",
+    "image": "broken_guardrail.jpg",
+    "metadata": {
+      "source": "Mobile App"
+    }
+  },
+  {
+    "report_id": "R-125",
+    "category": "Road & Infrastructure",
+    "description": "Damaged crash barrier protruding into fast traffic lane.",
+    "latitude": 18.5287,
+    "longitude": 73.8527,
+    "timestamp": "2026-10-08T08:20:00",
+    "image": null,
+    "metadata": {
+      "source": "Web Portal"
+    }
+  },
+  {
+    "report_id": "R-109",
+    "category": "Electrical & Public Safety",
+    "description": "Streetlight pole #42 blinking erratically; base cover missing.",
+    "latitude": 18.514,
+    "longitude": 73.859,
+    "timestamp": "2026-10-08T07:15:00",
+    "image": null,
+    "metadata": {
+      "source": "Mobile App"
+    }
+  },
+  {
+    "report_id": "R-126",
+    "category": "Electrical & Public Safety",
+    "description": "Streetlight mast dark and loose wiring bundle visible near ground.",
+    "latitude": 18.5143,
+    "longitude": 73.8592,
+    "timestamp": "2026-10-08T07:35:00",
+    "image": null,
+    "metadata": {
+      "source": "Web Portal"
+    }
+  }
+]
